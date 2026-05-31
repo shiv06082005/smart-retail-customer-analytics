@@ -15,6 +15,19 @@ A Machine Learning project built using Python, Scikit-Learn, and Streamlit to an
 - High Value Product Prediction
 - Interactive Streamlit Dashboard
 
+
+## 📌 Project Workflow
+
+1. Load and preprocess retail dataset
+2. Handle missing values
+3. Encode categorical features
+4. Train multiple Machine Learning models
+5. Compare model performance
+6. Save the best-performing model
+7. Deploy prediction system using Streamlit
+
+
+
 ## 🛠️ Technologies Used
 
 - Python
@@ -78,11 +91,26 @@ streamlit run app.py
 The Online Retail dataset is included in this repository as a ZIP file.
 
 Original Dataset Source:
-https://archive.ics.uci.edu/dataset/352/online+retail
+
+[Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+
 
 ## 🖼️ Dashboard Preview
 
 ![Dashboard](dashboard.png)
+
+*Interactive Streamlit dashboard for High Value Product Prediction.*
+
+
+## 🔮 Future Improvements
+
+* Add Random Forest Classifier
+* Add XGBoost Model
+* Interactive data visualizations
+* Country selection dropdown
+* Streamlit Cloud deployment
+* Real-time prediction analytics
+
 
 ## 🎯 Learning Outcomes
 
