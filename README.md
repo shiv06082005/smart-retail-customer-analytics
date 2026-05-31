@@ -27,23 +27,17 @@ A Machine Learning project built using Python, Scikit-Learn, and Streamlit to an
 
 ## 📂 Project Structure
 
+```text
 smart-retail-analytics/
-
 ├── data/
-
-│ └── OnlineRetail.csv
-
+│   └── OnlineRetail.csv
 ├── best_model.pkl
-
 ├── app.py
-
 ├── train.py
-
 ├── requirements.txt
-
 ├── README.md
-
 └── .gitignore
+```
 
 ## 📈 Machine Learning Models
 
@@ -58,7 +52,7 @@ smart-retail-analytics/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-retail-customer-analytics.git
+git clone https://github.com/shiv06082005/smart-retail-customer-analytics.git
 ```
 
 Install dependencies:
@@ -79,13 +73,16 @@ Run dashboard:
 streamlit run app.py
 ```
 
-## 📷 Dashboard Preview
+## 📊 Dataset
 
-Add your project screenshot here.
+The Online Retail dataset is included in this repository as a ZIP file.
 
-Example:
+Original Dataset Source:
+https://archive.ics.uci.edu/dataset/352/online+retail
 
-screenshots/dashboard.png
+## 🖼️ Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## 🎯 Learning Outcomes
 
